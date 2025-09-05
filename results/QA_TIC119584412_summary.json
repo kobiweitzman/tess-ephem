@@ -1,0 +1,20 @@
+[
+  {
+    "sector": 22,
+    "source": "PDCSAP",
+    "N_all": 16101,
+    "N_use": 16101,
+    "frac_bad": 0.0,
+    "rms_ppm": 1325.639640960603,
+    "cdpp1h_ppm": 740.6408483683258
+  },
+  {
+    "sector": 49,
+    "source": "PDCSAP",
+    "N_all": 13272,
+    "N_use": 13272,
+    "frac_bad": 0.0,
+    "rms_ppm": 1396.6813785430365,
+    "cdpp1h_ppm": 937.6860394412834
+  }
+]
