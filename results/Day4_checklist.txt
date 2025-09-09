@@ -1,0 +1,7 @@
+Day 4 deliverables:
+- BLS periodogram and top-5 table: OK
+- TLS vs BLS folds: OK
+- Refined ephemeris (all years) + O–C: OK
+- Summary CSV/JSON written here:
+  * results/Day4_summary.csv
+  * results/Day4_summary.json

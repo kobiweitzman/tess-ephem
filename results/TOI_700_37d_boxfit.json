@@ -1,0 +1,17 @@
+{
+  "period_d": 36.666641407218705,
+  "T0_btjd": 2030.4670829693594,
+  "box_depth_ppm_best": 400.0,
+  "box_duration_hr_best": 0.4,
+  "depth_ppm_median": 200.0,
+  "depth_ppm_lo_hi": [
+    200.0,
+    216.66666666666666
+  ],
+  "duration_hr_median": 0.44166666666666665,
+  "duration_hr_lo_hi": [
+    0.4,
+    0.6013333333333334
+  ],
+  "n_bootstrap": 300
+}

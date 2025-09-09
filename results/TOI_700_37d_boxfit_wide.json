@@ -1,0 +1,28 @@
+{
+  "period_d": 36.666641407218705,
+  "T0_btjd": 2030.4670829693594,
+  "grid_bounds": {
+    "depth_ppm": [
+      50,
+      4000
+    ],
+    "duration_hr": [
+      0.2,
+      2.0
+    ]
+  },
+  "box_depth_ppm_best": 50.0,
+  "box_duration_hr_best": 1.727272727272727,
+  "depth_ppm_median": 83.33333333333334,
+  "depth_ppm_lo_hi": [
+    50.0,
+    166.66666666666669
+  ],
+  "duration_hr_median": 1.7301515151515152,
+  "duration_hr_lo_hi": [
+    1.4187878787878785,
+    1.896212121212121
+  ],
+  "n_bootstrap": 400,
+  "note": "Wide search to avoid boundary pile-ups; medians/intervals now meaningful."
+}

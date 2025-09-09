@@ -1,0 +1,16 @@
+{
+  "TIMESYS": "TDB",
+  "TIMEUNIT": "d",
+  "BJDREFI": 2457000,
+  "BJDREFF": 0.0,
+  "TSTART": 1410.90032486363,
+  "TSTOP": 1436.840708547824,
+  "MISSION": "TESS",
+  "SECTOR": 4,
+  "OBJECT": "TIC 150428135",
+  "CREATOR": "32320 LightCurveExporterPipelineModule",
+  "TELESCOP": "TESS",
+  "INSTRUME": "TESS Photometer",
+  "BJDREF_sum": 2457000.0,
+  "BTJD_definition": "BTJD = BJD_TDB - 2457000 (check BJDREF_sum \u2248 2457000)"
+}

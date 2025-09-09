@@ -1,0 +1,10 @@
+{
+  "used_real_midtimes": true,
+  "period_d": 36.67345218181812,
+  "period_err_d": 1.7538029578166539,
+  "T0_btjd": 2030.587233381818,
+  "T0_err_btjd": 11.154569290493233,
+  "box_depth_ppm": NaN,
+  "box_duration_hr": NaN,
+  "nbins_profile": 240
+}

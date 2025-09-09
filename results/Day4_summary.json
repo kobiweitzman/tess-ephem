@@ -1,0 +1,17 @@
+{
+  "bls_best_period_d": 16.05134189031505,
+  "bls_T0_btjd": 1340.0871616816696,
+  "bls_duration_hr": 1.0999999999999999,
+  "bls_depth_ppm": 2220.5636427393165,
+  "bls_power": 0.044081159152659276,
+  "tls_period_d": 16.05148860249633,
+  "tls_T0_btjd": 1340.0805633424125,
+  "tls_SDE": 12.544889490210783,
+  "tls_duration_hr": 0.9175757878485388,
+  "tls_depth_ppm": 998342.2336169527,
+  "refined_period_d": 16.050763114554016,
+  "refined_period_err_d": 0.0003980857803505932,
+  "refined_T0_btjd": 1340.1120872779716,
+  "refined_T0_err_d": 0.02138291573442817,
+  "n_events_used": 10
+}

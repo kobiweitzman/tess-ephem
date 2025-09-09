@@ -1,0 +1,73 @@
+{
+  "target": "TOI 700",
+  "ephemeris_canonical": {
+    "source": "refined_37d_linear_fit",
+    "period_d": 36.666641407218705,
+    "period_err_d": 0.00023677236708379232,
+    "T0_btjd": 2030.4670829693594,
+    "T0_err_d": 0.002287428539512503,
+    "n_midtimes_used": 9
+  },
+  "ephemeris_bootstrap": {
+    "n0_center": -10.0,
+    "weighted_LS": {
+      "P_d": 36.666641407218755,
+      "P_err_d": 0.0032886953475136905,
+      "T0_btjd": 1663.8006688971718,
+      "T0_err_d": 0.04582973825922613
+    },
+    "bootstrap": {
+      "N": 2000,
+      "P_d_median": 36.66793026243768,
+      "P_d_lo_hi": [
+        36.66371435349049,
+        36.67596876957649
+      ],
+      "T0_btjd_median": 1663.8160106003043,
+      "T0_btjd_lo_hi": [
+        1663.7633634050947,
+        1663.8733534299374
+      ]
+    }
+  },
+  "depth_duration": {
+    "narrow": {
+      "depth_ppm_best": 400.0,
+      "depth_ppm_median": 200.0,
+      "depth_ppm_lo_hi": [
+        200.0,
+        216.66666666666666
+      ],
+      "duration_hr_best": 0.4,
+      "duration_hr_median": 0.44166666666666665,
+      "duration_hr_lo_hi": [
+        0.4,
+        0.6013333333333334
+      ]
+    },
+    "wide": {
+      "depth_ppm_best": 50.0,
+      "depth_ppm_median": 83.33333333333334,
+      "depth_ppm_lo_hi": [
+        50.0,
+        166.66666666666669
+      ],
+      "duration_hr_best": 1.727272727272727,
+      "duration_hr_median": 1.7301515151515152,
+      "duration_hr_lo_hi": [
+        1.4187878787878785,
+        1.896212121212121
+      ]
+    }
+  },
+  "figures_present": [
+    "figures/TOI_700_37d_fold_model.png",
+    "figures/TOI_700_37d_fold_model_wide.png",
+    "figures/TOI_700_37d_depth_duration_corner.png",
+    "figures/TOI_700_37d_depth_duration_corner_wide.png",
+    "figures/TOI_700_37d_P_T0_corner_boot.png",
+    "figures/TOI_700_37d_OC_boot.png",
+    "figures/TOI_700_37d_window_growth.png"
+  ],
+  "transit_windows_csv": "results/TOI_700_37d_transit_windows.csv"
+}

@@ -1,0 +1,14 @@
+{
+  "filters": {
+    "period_gt_days": 10.0,
+    "single_transit_keyword": false,
+    "teff_lt_K": 5200.0,
+    "tmag_lt": 13.5,
+    "tmag_relaxed_if_few": 14.0
+  },
+  "counts": {
+    "toi_rows_total": 7668,
+    "selected_initial": 363,
+    "written_rows": 60
+  }
+}

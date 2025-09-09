@@ -1,0 +1,38 @@
+[
+  {
+    "TIC_ID_norm": 16884216,
+    "toi": "2023.01",
+    "P_d": 11.1900486,
+    "T0_btjd": 2458964.128568,
+    "drift_1yr_hr": 3.8855046041412966,
+    "drift_2yr_hr": 7.76953189478059,
+    "suggested_fold_time_buffer_hr": 11.65
+  },
+  {
+    "TIC_ID_norm": 304142124,
+    "toi": "1793.01",
+    "P_d": 55.087,
+    "T0_btjd": 2460017.429225,
+    "drift_1yr_hr": 3.1826732613207085,
+    "drift_2yr_hr": 6.365239729693704,
+    "suggested_fold_time_buffer_hr": 9.55
+  },
+  {
+    "TIC_ID_norm": 387834907,
+    "toi": "1405.01",
+    "P_d": 12.64001,
+    "T0_btjd": 2458739.88011,
+    "drift_1yr_hr": 2.067217872088572,
+    "drift_2yr_hr": 4.133608093413018,
+    "suggested_fold_time_buffer_hr": 6.2
+  },
+  {
+    "TIC_ID_norm": 441462736,
+    "toi": "197.01",
+    "P_d": 14.278122,
+    "T0_btjd": 2458357.014054,
+    "drift_1yr_hr": 2.0505268594836954,
+    "drift_2yr_hr": 4.100029271438957,
+    "suggested_fold_time_buffer_hr": 6.15
+  }
+]

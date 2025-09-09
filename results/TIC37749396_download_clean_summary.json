@@ -1,0 +1,20 @@
+{
+  "target_toi": "TOI 260.01",
+  "target_tic": 37749396,
+  "n_sectors_pdcsap": 4,
+  "n_sectors_ffi": 0,
+  "sectors_pdcsap": [
+    3,
+    42,
+    70,
+    70
+  ],
+  "sectors_ffi": [],
+  "n_points_raw": 125055,
+  "n_points_flat": 125055,
+  "rms_raw_ppm": 1043.9811740070581,
+  "rms_flat_ppm": 1035.729219446299,
+  "cdpp1h_flat_ppm": 112.01310543832174,
+  "flatten_window_days": 1.0,
+  "notes": "PDCSAP preferred; FFI(TESSCut) used where SPOC PDCSAP missing."
+}

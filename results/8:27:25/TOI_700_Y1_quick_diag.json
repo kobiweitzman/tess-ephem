@@ -1,0 +1,10 @@
+{
+  "period_d": 16.051489,
+  "T0_btjd": 1340.3345163333213,
+  "stacked_depth_ppm": -386.0409490155092,
+  "stacked_depth_err_ppm": 75.21839556551492,
+  "N_in_points": 519,
+  "odd_depth_median_ppm": -311.265947303796,
+  "even_depth_median_ppm": -172.72592864825407,
+  "secondary_0p5P_median_ppm": -36.025035421993756
+}
