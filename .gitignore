@@ -17,3 +17,11 @@ data_tmp/
 
 # Ignore time-stamped figure folders
 figures/[0-9]*:[0-9]*:[0-9]*/
+
+# Ignore scratch notebooks
+Untitled*.ipynb
+Space.ipynb
+Test*.ipynb
+
+# Ignore time-stamped folders with colons
+results/[0-9]*:[0-9]*:[0-9]*/
