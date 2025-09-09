@@ -1,0 +1,12 @@
+{
+  "target_toi": "TOI 1801.01",
+  "target_tic": 119584412,
+  "detrend_params": {
+    "window_days": 1.0,
+    "polyorder": 2,
+    "use_transit_mask": false,
+    "mask_width_factor": 1.7
+  },
+  "quality_bitmask": 175,
+  "created_by": "02_download_clean.ipynb"
+}
