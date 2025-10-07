@@ -34,3 +34,17 @@ mastDownload/
 *.npz
 .ipynb_checkpoints/
 **/.DS_Store
+# Large/data caches
+mastDownload/
+~/Downloads/mastDownload/
+**/*.npz
+
+# Notebook caches
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+
+# Results you don't want to version (optional)
+# figures/
+# results/
