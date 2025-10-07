@@ -25,3 +25,7 @@ Test*.ipynb
 
 # Ignore time-stamped folders with colons
 results/[0-9]*:[0-9]*:[0-9]*/
+mastDownload/
+*.npz
+*.fits
+.ipynb_checkpoints/
