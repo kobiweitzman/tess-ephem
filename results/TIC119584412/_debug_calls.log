@@ -1,0 +1,12 @@
+lnZ_STP: fail(kw): lnZ_STP() missing 1 required positional argument: 'plx'
+lnZ_PTP: fail(kw): lnZ_PTP() missing 1 required positional argument: 'plx'
+lnZ_TTP: fail(kw): setting an array element with a sequence.
+lnZ_TEB: fail(kw): The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+lnZ_DEB: fail(kw): lnZ_DEB() missing 1 required positional argument: 'Tmag'
+lnZ_BEB: fail(kw): lnZ_BEB() missing 1 required positional argument: 'Tmag'
+lnZ_PEB: fail(kw): lnZ_PEB() missing 1 required positional argument: 'plx'
+lnZ_SEB: fail(kw): lnZ_SEB() missing 1 required positional argument: 'plx'
+lnZ_NEB_unknown: fail(kw): lnZ_NEB_unknown() missing 1 required positional argument: 'Tmag'
+lnZ_NTP_unknown: fail(kw): lnZ_NTP_unknown() missing 1 required positional argument: 'Tmag'
+lnZ_DTP: fail(kw): lnZ_DTP() missing 1 required positional argument: 'Tmag'
+lnZ_BTP: fail(kw): lnZ_BTP() missing 1 required positional argument: 'Tmag'

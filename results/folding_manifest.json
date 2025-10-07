@@ -1,0 +1,14 @@
+{
+  "TIC119584412": {
+    "prefer_robust_for_folding": false,
+    "label": "Target A"
+  },
+  "TIC37749396": {
+    "prefer_robust_for_folding": true,
+    "label": "Target B"
+  },
+  "TIC311183180": {
+    "prefer_robust_for_folding": false,
+    "label": "Target C"
+  }
+}

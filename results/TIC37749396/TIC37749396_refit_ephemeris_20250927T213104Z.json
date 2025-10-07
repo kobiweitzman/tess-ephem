@@ -1,0 +1,30 @@
+{
+  "tic": 37749396,
+  "tls_narrow": {
+    "catalog_P": 13.475725,
+    "search_window_frac": 0.01,
+    "best_P": 13.472137304362722,
+    "best_T0": 1392.7991745779702,
+    "SDE": 8.14594484605202,
+    "periodogram": "figures/TIC37749396/TIC37749396_TLS_narrow_20250927T213104Z.png",
+    "phase_plot": "figures/TIC37749396/TIC37749396_TLS_narrow_phase_20250927T213104Z.png"
+  },
+  "fit": {
+    "P": 13.472327437113647,
+    "T0": 1392.7853027118604,
+    "rchisq": 0.03786806653941801,
+    "cov": {
+      "C00_T0": 2.1401965890814063e-06,
+      "C11_P": 3.383845392457455e-10,
+      "C01_T0P": -2.6545976940270023e-08
+    },
+    "n_midtimes": 5
+  },
+  "detrend": {
+    "kind": "sliding_poly",
+    "window_days": 1.0,
+    "polyorder": 2
+  },
+  "quality_bits": 175,
+  "run_utc": "20250927T213104Z"
+}
